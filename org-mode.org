@@ -27,6 +27,11 @@
    El modo Org se puede usar como un sistema distribuido de registro de problemas o fallos, si se almacenan los ficheros .org en un sistema de control de revisiones distribuido. Los desarrolladores de la extensión org-babel usan el modo Org de esta manera para registrar los informes de fallos y las solicitudes de características.
 
 ** Enlaces externos
+
    + [[https://www.orgmode.org/][Sitio web del modo Org]], básicamente en inglés
    + [[https://orgmode.org/worg/index.html][Lista de guías de texto y vídeo acerca del modo Org]] en el wiki del sitio, Worg, básicamente en inglés
 
+
+* Magit
+
+Magit es chido
